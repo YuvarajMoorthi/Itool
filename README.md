@@ -1,4 +1,4 @@
-# Android Currency Detector App using TensorFlow Lite image classification
+# Android Itool App using TensorFlow Lite image classification
 
 ## Overview
 
